@@ -1,0 +1,49 @@
+html{
+  background-color: #6BD9C3;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+
+input{
+  border-radius: 10px;
+  border-color: black;
+  box-shadow: 4px 4px grey;
+  text-align: center;
+  padding: 10px 38px;
+}
+
+#manipulation{
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+button{
+  background-color: white;
+  font-color:black;
+  border-color: blue;
+  padding : 5px 10px;
+  margin: 10px;
+  border-radius: 15%;
+
+}
+
+#substract{
+  padding: 5px 11px;
+}
+
+button:hover{
+  background-color: yellow;
+  cursor: pointer;
+  box-shadow: 4px 4px grey;
+}
+
+p{
+  margin-right: 210px;
+}
+label{
+  text-align: center;
+}
